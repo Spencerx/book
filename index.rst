@@ -5,11 +5,18 @@
 
 |
 
-Computer Networks: A Systems Approach
-======================================
+Computer Networks: A Systems Approach (6th Edition)
+===================================================
+
 
 Larry Peterson and Bruce Davie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+`7th Edition Preview is Here`_.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _7th Edition Preview is Here: https://7e.systemsapproach.org
 
 |
 
